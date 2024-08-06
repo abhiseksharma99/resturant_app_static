@@ -18,7 +18,7 @@ const Navbar = () => {
         <Avatar src='https://i.redd.it/ld34wnxr71fb1.jpg' sx={{width:35,height:35}} />
       </span>
       <Link to='/' className='text-xl font-semibold'>
-        Zombato🧟ysys
+        Zombato🧟
       </Link>
       <Link to='/login' className='bg-red-700 hover:bg-red-800 text-white px-5 py-1 rounded-full border transition-all duration-500'>
         login
